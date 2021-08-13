@@ -33,7 +33,7 @@
             // default options
             var defaults = {
                 arrowsColor : '#B6B6B6',
-                autoplay : false, // same as data-autoplay - thanks @codibit
+                autoplay : true, // same as data-autoplay - thanks @codibit
                 bgcolor: '#fff',
                 border: '0',
                 closeBackground : 'transparent',

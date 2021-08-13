@@ -330,7 +330,7 @@ section.section-show {
 }
 
 section .container {
-  background: rgba(102, 102, 102, 0.9);
+  background: rgba(146, 146, 146, 0.9);
   padding: 30px;
 }
 
@@ -658,17 +658,17 @@ section .container {
 .services .icon-box {
   text-align: center;
   background: rgba(204, 204, 204, 0.1);
-  padding: 80px 20px;
+  padding: 50px 20px;
   transition: all ease-in-out 0.3s;
 }
 
 .services .icon-box .icon {
   margin: 0 auto;
-  width: 64px;
-  height: 64px;
+  width: 50px;
+  height: 50px;
   background: #ffb727;
   border-radius: 5px;
-  transition: all .3s ease-out 0s;
+  transition: all .5s ease-out 0s;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1096,6 +1096,7 @@ section .container {
   font-size: 26px;
   font-weight: 700;
   margin-bottom: 20px;
+  color:#ffb727
 }
 
 .portfolio-details .portfolio-details-carousel .owl-nav, .portfolio-details .portfolio-details-carousel .owl-dots {
@@ -1124,12 +1125,14 @@ section .container {
   font-size: 22px;
   font-weight: 400;
   margin-bottom: 20px;
+  color:#ffffff
 }
 
 .portfolio-details .portfolio-info ul {
   list-style: none;
   padding: 0;
   font-size: 15px;
+  color:#ffffff
 }
 
 .portfolio-details .portfolio-info ul li + li {
@@ -1139,6 +1142,7 @@ section .container {
 .portfolio-details .portfolio-info p {
   font-size: 15px;
   padding: 15px 0 0 0;
+  color:#ffffff
 }
 
 @media (max-width: 992px) {
